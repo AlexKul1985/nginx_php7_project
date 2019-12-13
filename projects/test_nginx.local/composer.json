@@ -1,0 +1,17 @@
+{
+    "name": "alex/test_vagrant_nginx",
+    "authors": [
+        {
+            "name": "AlexKul1985",
+            "email": "AlexKul1985sanhsoy@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"classes",
+            "Contracts\\":"contracts"
+        }
+    },
+    "require": {}
+    
+}
